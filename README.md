@@ -18,6 +18,6 @@ For any inquiry please drop me an email:  mazhar.ali@skolkovotech.ru
 
 You may cite following papers for using the PESOL Toolbox for power systems analysis.
 
-[1]
-[2]
-[3]
+* [1]
+* [2]
+* [3]

@@ -18,6 +18,8 @@ For any inquiry please drop me an email:  mazhar.ali@skolkovotech.ru
 
 You may cite following papers for using the PESOL Toolbox for power systems analysis.
 
-* [1]
-* [2]
-* [3]
+* [1]Ali, Mazhar, Anatoly Dymarsky, and Konstantin Turitsyn. "Transversality enforced Newton–Raphson algorithm for fast calculation of maximum loadability." IET Generation, Transmission & Distribution 12.8 (2018): 1729-1737.
+
+* [2] Ali, Mazhar, Elena Gryazina, and Konstantin S. Turitsyn. "Fast calculation of the transfer capability margins." 2019 IEEE Milan PowerTech. IEEE, 2019.
+
+* [3] Ali, Mazhar, et al. "Voltage Feasibility Boundaries for Power System Security Assessment." arXiv preprint arXiv:2103.00168 (2021).

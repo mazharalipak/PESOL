@@ -1,5 +1,6 @@
 # PESOL Package for Power Systems Analysis 
-# Install the corresponding folders in the latest version of the Matpower for running PESOL Toolbox. 
+# Place the corresponding folders in the latest version of the Matpower for running PESOL Toolbox.
+# Each block is independent
 
 The PESOL toolbox contains following blocks,
 

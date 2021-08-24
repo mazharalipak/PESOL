@@ -69,7 +69,7 @@ counter = counter + 1;
  
 end
 
-%% check for non-convergence
+%% check for non-convergence .................
 
 if Iter > maxIters 
     disp('Newton did not converge, change step size'); 
